@@ -1,3 +1,7 @@
+# 실제 프로젝트 깃헙 (clone 용)
+https://github.com/kw-ic-web/23-teampjt-meun.git
+
+
 # 프로젝트 이름 : FOTD (Food of the day)
 
 각 사용자 들이 오늘 먹은 각 끼니별로 먹은걸 서로 포스팅 하며 소통하는 SNS 플랫폼 서비스 입니다..<br/>
