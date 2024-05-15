@@ -1,4 +1,5 @@
 # 실제 프로젝트 깃헙 (clone 용)
+클론을 받아 git histroy를 확인할 수 있습니다.
 https://github.com/kw-ic-web/23-teampjt-meun.git
 
 
